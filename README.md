@@ -1,8 +1,7 @@
 <a href="https://github.com/muzinnoor">
-  <img src="banner4.jpg" width="100%" alt="Muzinnoor Banner"/>
+  <img src="ChatGPT Image 20 Mei 2026, 13.21.18.png" width="100%" alt="Muzin Banner"/>
 </a>
 <br>
-
 <h1 align="center">Hi 👋, I'm Muzin</h1>
 
 <p align="center">
