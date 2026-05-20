@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.jpg" />
+  <img src="Desktop - 1.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muzin</h1>
