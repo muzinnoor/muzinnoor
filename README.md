@@ -1,4 +1,4 @@
-<a href="https://github.com/Synaptara">
+<a href="https://github.com/muzinnoor">
   <img src="banner4.jpg" width="100%" alt="Muzinnoor Banner"/>
 </a>
 <br>
